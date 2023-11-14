@@ -1,0 +1,39 @@
+body{   
+background: powderblue;
+
+max-width: 800px;
+width: 80%;
+margin: auto;
+}
+
+h1{ 
+background: #ffc;
+}
+
+h2{
+	
+	color: #ffc;
+	
+}
+
+p{text-align: justify; }
+
+#alja{
+border-top:5px solid red;
+text-align: center;
+font-weight: bold;
+}
+
+a:link{ color:green; }
+a:visited{ color:pink; }
+a:hover{color:red;
+text-decoration: none;
+font-size: 20px;}
+a:active{ color black;}
+
+img{
+	width: 200px;
+	float: left;
+	margin-right: 10px
+}
+
